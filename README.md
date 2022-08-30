@@ -16,7 +16,7 @@ This is an open-source program running exclusively on linux that supports rapid 
   <a href=""> Docs </a> |
   <a href="https://github.com/The-GUY-2024/PowerChair_Robot/tree/main/Parts"> Part's </a> |
   <a href="https://github.com/The-GUY-2024/PowerChair_Robot/tree/main/Demo"> Demo </a> |
-  <a href=""> Goal's </a>
+  <a href="https://github.com/The-GUY-2024/PowerChair_Robot/blob/main/README.md#goals-for-the-project"> Goal's </a>
 </h4>
 
 
