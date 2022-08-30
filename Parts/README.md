@@ -6,6 +6,34 @@
   <a href=""> Docs </a> |
   <a href="https://github.com/The-GUY-2024/PowerChair_Robot/tree/main/Parts"> Part's </a> |
   <a href=""> Demo </a> |
+  <a href=""> Schematic </a>|
 </h4>
 
 
+# Microcontroller 
+Jetson nano
+
+
+# Motor Driver
+BTS7960 43A
+
+
+# Motor 
+
+N/A
+
+
+# Frame 
+ N/a
+ 
+ 
+ # Lidar 
+ 
+ N/a
+ 
+ 
+ 
+ # Connection Schematic 
+ 
+ 
+ 
