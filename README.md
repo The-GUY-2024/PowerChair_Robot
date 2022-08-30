@@ -12,3 +12,19 @@ This is an open-source program running exclusively on linux that supports rapid 
   <a href=""> Part's </a> |
   <a href=""> Demo </a> |
 </h4>
+
+
+# Contribution
+
+Any Contribution to this project are welcome!
+
+
+# License
+
+MIT
+
+
+
+# Authors
+
+- [ Louis Castro](https://github.com/The-GUY-2024) 
