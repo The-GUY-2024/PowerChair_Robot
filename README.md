@@ -9,7 +9,7 @@ This is an open-source program running exclusively on linux that supports rapid 
 <h4>
    | <a href=""> Home </a> |
   <a href=""> Docs </a> |
-  <a href=""> Part's </a> |
+  <a href="https://github.com/The-GUY-2024/PowerChair_Robot/tree/main/Parts"> Part's </a> |
   <a href=""> Demo </a> |
 </h4>
 
