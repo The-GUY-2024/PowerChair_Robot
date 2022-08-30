@@ -22,6 +22,7 @@ This is an open-source program running exclusively on linux that supports rapid 
 
 
 # Goal's for The Project
+-[ ] Indoor Position-Estimation Algorithm (Using IMU SENSOR)
 
 
 # Contribution
