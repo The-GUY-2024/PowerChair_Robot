@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://github.com/The-GUY-2024/PowerChair_Robot/blob/main/src/RBTchair.jpg" width="320"  />
+   <img src="https://github.com/The-GUY-2024/PowerChair_Robot/blob/main/src/RBTchair.jpg" width="250"  />
 </p>
 
 
