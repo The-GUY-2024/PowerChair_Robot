@@ -23,7 +23,9 @@ This is an open-source program running exclusively on linux that supports rapid 
 
 # Goal's for The Project
 - [ ] Indoor Position-Estimation Algorithm (Using IMU SENSOR)
-
+- [ ] Triangulation Path Planning Algorithms
+- [ ] 2d Lidar Object Detection & Tracking
+- [ ] Point-to-Point trajectory planning (Command by user)
 
 # Contribution
 
