@@ -10,6 +10,5 @@ This is an open-source program running exclusively on linux that supports rapid 
    | <a href=""> Home </a> |
   <a href=""> Docs </a> |
   <a href=""> Part's </a> |
-
-
+  <a href=""> Demo </a> |
 </h4>
