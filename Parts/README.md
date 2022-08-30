@@ -27,9 +27,11 @@ N/A
  N/a
  
  
- # Lidar 
+ # 2D Lidar 
  
  N/a
+ 
+ # IMU SENSOR
  
  
  
