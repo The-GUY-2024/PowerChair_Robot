@@ -9,10 +9,10 @@
   <a href="https://github.com/The-GUY-2024/PowerChair_Robot/tree/main/Parts#connection-schematic"> Schematic </a>|
 </h4>
 
-<h4 align="center">
+
 # Microcontroller 
 Jetson nano
-</h4>
+
 
 # Motor Driver
 BTS7960 43A
