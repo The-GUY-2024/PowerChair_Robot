@@ -4,7 +4,7 @@
 
 
 
-This is an open-source program running exclusively on linux that supports rapid development of software that deals with ( ML, Pattern recognition,Object detection, Path Planning Algorithm, Trajectory algorithm & Geolocation). 
+This is an open-source program running exclusively on linux that supports rapid development of software that deals with ( ML, Pattern recognition, Object detection, Path Planning Algorithm, Trajectory algorithm & Geolocation ). 
 
 
 <h4>
