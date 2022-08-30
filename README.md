@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://github.com/The-GUY-2024/PowerChair_Robot/blob/main/src/RBTchair.jpg" width="600" height="350" />
+   <img src="https://github.com/The-GUY-2024/PowerChair_Robot/blob/main/src/RBTchair.jpg" width="600"  />
 </p>
 # PowerChair_Robot: A Robot Autonomous Project on a Budget
 
