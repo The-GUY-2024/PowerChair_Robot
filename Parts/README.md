@@ -20,12 +20,12 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/mtor%20ric.jpg"/>
    
-   
-   The BTS7960 is a fully integrated high current H bridge module for motor drive applications. Interfacing to a microcontroller is made easy by the         
-   integrated driver IC which features logic level inputs, diagnosis with current sense, slew rate adjustment, dead time generation and protection against 
-   overtemperature, overvoltage, undervoltage, overcurrent and short circuit. The BTS7960 provides a cost optimized solution for protected high current PWM 
-   motor drives with very low board space consumption.
-   
+   <p align="center">
+      The BTS7960 is a fully integrated high current H bridge module for motor drive applications. Interfacing to a microcontroller is made easy by the
+      integrated driver IC which features logic level inputs, diagnosis with current sense, slew rate adjustment, dead time generation and protection 
+      against overtemperature, overvoltage, undervoltage, overcurrent and short circuit. The BTS7960 provides a cost optimized solution for protected high
+      current PWM motor drives with very low board space consumption.
+   </p>
    - Input Voltage 6 ~ 24 Vdc.
    - Peak Current: 43 (APM).
    - PWM capability of up to 25 kHz.
