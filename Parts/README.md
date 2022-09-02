@@ -16,9 +16,6 @@
    For now im using the raspberry pi 3  instead of the jetson nano because is a cheaper micro computer and just in case of any damege.
 </p>
 
-Jetson nano
-
-
 # Motor Driver
 BTS7960 43A
 
