@@ -12,7 +12,7 @@
 
 # Microcontroller 
 <p align="center">
-   <img src="https://github.com/The-GUY-2024/PowerChair_Robot/blob/main/src/RBTchair.jpg" />
+   <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/rsp3b.jpg" />
    For now im using the raspberry pi 3  instead of the jetson nano because is a cheaper micro computer and just in case of any damege.
 </p>
 
