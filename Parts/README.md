@@ -11,6 +11,11 @@
 
 
 # Microcontroller 
+<p align="center">
+   <img src="" />
+   For now im using the raspberry pi 3  instead of the jetson nano because is a cheaper micro computer and just in case of any damege.
+</p>
+
 Jetson nano
 
 
