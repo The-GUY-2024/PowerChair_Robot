@@ -26,6 +26,7 @@
       against overtemperature, overvoltage, undervoltage, overcurrent and short circuit. The BTS7960 provides a cost optimized solution for protected high
       current PWM motor drives with very low board space consumption.
    </p>
+   
    - Input Voltage 6 ~ 24 Vdc.
    - Peak Current: 43 (APM).
    - PWM capability of up to 25 kHz.
@@ -33,6 +34,7 @@
    - Working Duty Cycle.
    - Over-voltage Lock Out.
    - Under-voltage Shut Down.
+
 </p>
 
 
