@@ -17,7 +17,9 @@
 </p>
 
 # Motor Driver
-BTS7960 43A
+<p align="center">
+   <img src=""/>
+</p>
 
 
 # Motor 
