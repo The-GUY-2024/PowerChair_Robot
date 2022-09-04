@@ -53,6 +53,10 @@
 <p align="Left">
    <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/frame1.jpg" width="50%"/>
 </p>
+
+<p align="right">
+   <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/frame2.jpg" width="50%"/>
+</p>
  
  
  # 2D Lidar 
