@@ -39,15 +39,10 @@
 
 
 # Motor 
-<p aling="center">
+<p align="center">
    <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/pCMs.png"/>
    
-   
-   <p aling="center"> 
-      
-   </p>
-
-</p>
+ </p>
 
 N/A
 
