@@ -44,9 +44,7 @@
  </p>
 <p align="center">
    I did not found any documentation of these motor's but i did found a video on how to remove the break's 
-   
-   
-      <a href="https://www.youtube.com/watch?v=p8_vGv_03Ao" target="_blank"> Removement of the break's</a>
+   <a href="https://www.youtube.com/watch?v=p8_vGv_03Ao" target="_blank"> Removement of the break's</a>
    </p>
 
 N/A
