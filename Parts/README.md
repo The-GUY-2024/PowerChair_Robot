@@ -65,6 +65,7 @@
  <p align="center">
    <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/powersupply.png" />
  </p>
+ 
  <p align="center">
       I'm using these power supply connected in parallel in my case the work perfectly for my motor's.
  </p> 
