@@ -62,8 +62,12 @@
  
  
  # Power Sources
- 
- 
+ <p align="center">
+   <img src="" />
+ </p>
+ <p align="center">
+      I'm using these power supply connected in parallel in my case the work perfectly for my motor's.
+ </p> 
  
  # Connection Schematic 
  
