@@ -41,8 +41,11 @@
 # Motor 
 <p align="center">
    <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/pCMs.png"/>
-   
  </p>
+<p align="center">
+   I did not found any documentation of these motor's but i did found a video on how to remove the break's 
+   https://www.youtube.com/watch?v=p8_vGv_03Ao
+   </p>
 
 N/A
 
