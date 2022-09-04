@@ -47,7 +47,6 @@
    <a href="https://www.youtube.com/watch?v=p8_vGv_03Ao" target="_blank"> Removement of the break's</a>
    </p>
 
-N/A
 
 
 # Frame 
