@@ -59,12 +59,6 @@
 </p>
  
  
- # 2D Lidar 
- 
- N/a
- 
- # IMU SENSOR
- 
  
  
  # Power Sources
