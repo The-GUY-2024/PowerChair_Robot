@@ -67,7 +67,7 @@
  </p>
  
  <p align="center">
-      I'm using these power supply connected in parallel in my case the work perfectly for my motor's.
+      I'm using 2 Ac To Dc power supply connected as shown above. In my case they work perfectly and the output is around 25.3VDC .
  </p> 
  
  # Connection Schematic 
