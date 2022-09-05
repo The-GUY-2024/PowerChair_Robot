@@ -67,7 +67,7 @@
  </p>
  
  <p align="center">
-      I'm using 2 Ac To Dc power supply connected as shown above. In my case they work perfectly and the output is around 25.3VDC .
+      I'm using 2 Ac To Dc (12vDc) power supply connected as shown above. In my case they work perfectly and the output is around 25.3VDC .
  </p> 
  
  # Connection Schematic 
