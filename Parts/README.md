@@ -63,7 +63,7 @@
  
  # Power Sources
  <p align="center">
-   <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/powersupply.png" />
+   <img src="https://raw.githubusercontent.com/The-GUY-2024/PowerChair_Robot/main/Parts/src/Capture.PNG" />
  </p>
  
  <p align="center">
